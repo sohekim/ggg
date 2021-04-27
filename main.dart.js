@@ -52614,18 +52614,18 @@ F.Z0.prototype={
 $1:function(a){this.a.e.sq(0,a)},
 $S:309}
 A.xb.prototype={
-S:function(a,b){var s,r,q,p=this,o=null,n="Experience",m=t.w,l=b.M(m).f.a.a
-if(l<620){m=b.M(m).f.a.a<1200?l*0.44999999999999996:404.99999999999994
+S:function(a,b){var s,r,q,p=this,o=null,n="assets/sohee.jpg",m="Experience",l=t.w,k=b.M(l).f.a.a
+if(k<620){l=b.M(l).f.a.a<1200?k*0.44999999999999996:404.99999999999994
 s=t.t
-s=E.tF(M.aq(o,T.hs(T.ap(C.i,H.b([new T.aU(C.ve,M.aq(o,M.aq(o,U.bS("assets/sohee.jpg",C.t,o,o),o,o,o,o,o,o,o),o,o,o,o,o,o,m),o),M.aq(o,T.j2(H.b([new T.aU(C.iX,L.aR("Skills",K.Z(b).F.b.bQ(18),o),o),p.yc(b,l,0.55),p.GF(l,0.55),new T.aU(C.iX,L.aR(n,K.Z(b).F.b.bQ(18),o),o),p.EC(b,l,0.55)],s),C.hi,C.hX),o,o,o,o,o,o,l*0.55)],s),C.iE,C.j,C.eP,0,0),o,o),o,o,o,o,o,o,l))
-m=s}else{s=l*0.75
-r=b.M(m).f
-q=b.M(m).f.a.a<1200?s*0.44999999999999996:404.99999999999994
-q=M.aq(o,U.bS("sohee.jpg",C.t,o,o),o,o,o,r.a.b,o,o,q)
-m=b.M(m).f
+s=E.tF(M.aq(o,T.hs(T.ap(C.i,H.b([new T.aU(C.ve,M.aq(o,M.aq(o,U.bS(n,C.t,o,o),o,o,o,o,o,o,o),o,o,o,o,o,o,l),o),M.aq(o,T.j2(H.b([new T.aU(C.iX,L.aR("Skills",K.Z(b).F.b.bQ(18),o),o),p.yc(b,k,0.55),p.GF(k,0.55),new T.aU(C.iX,L.aR(m,K.Z(b).F.b.bQ(18),o),o),p.EC(b,k,0.55)],s),C.hi,C.hX),o,o,o,o,o,o,k*0.55)],s),C.iE,C.j,C.eP,0,0),o,o),o,o,o,o,o,o,k))
+l=s}else{s=k*0.75
+r=b.M(l).f
+q=b.M(l).f.a.a<1200?s*0.44999999999999996:404.99999999999994
+q=M.aq(o,U.bS(n,C.t,o,o),o,o,o,r.a.b,o,o,q)
+l=b.M(l).f
 r=t.t
-s=M.aq(o,T.hs(T.ap(C.i,H.b([new T.aU(C.p3,q,o),M.aq(o,T.hs(E.tF(T.j2(H.b([new T.aU(C.iX,L.aR("Skills",K.Z(b).F.b.bQ(18),o),o),p.yc(b,s,0.55),p.GF(s,0.55),new T.aU(C.iX,L.aR(n,K.Z(b).F.b.bQ(18),o),o),p.EC(b,s,0.55)],r),C.hi,C.hX)),o,o),o,o,o,m.a.b,o,o,s*0.55)],r),C.n,C.l,C.eP,0,0),o,o),o,o,o,o,o,o,s)
-m=s}return m},
+s=M.aq(o,T.hs(T.ap(C.i,H.b([new T.aU(C.p3,q,o),M.aq(o,T.hs(E.tF(T.j2(H.b([new T.aU(C.iX,L.aR("Skills",K.Z(b).F.b.bQ(18),o),o),p.yc(b,s,0.55),p.GF(s,0.55),new T.aU(C.iX,L.aR(m,K.Z(b).F.b.bQ(18),o),o),p.EC(b,s,0.55)],r),C.hi,C.hX)),o,o),o,o,o,l.a.b,o,o,s*0.55)],r),C.n,C.l,C.eP,0,0),o,o),o,o,o,o,o,o,s)
+l=s}return l},
 yc:function(a,b,c){var s=this,r=null
 return M.aq(r,T.ap(C.i,H.b([s.qr("Languages","Java\nDart\nSQL\nPython\nKotlin",a),s.qr("Tools","AWS\nJenkins\nGoogle Firebase\nBitrise\nGithub",a),s.qr("SDK & Frameworks","Spring Boot\nFlutter",a),s.qr("Databases","MySql\nRedis\nGoogle Firestore",a)],t.t),C.n,C.l,C.i,0,40),r,r,r,r,r,r,b*c)},
 EC:function(a,b,c){var s=this
@@ -52717,7 +52717,7 @@ p-=350
 p=T.ap(C.eP,H.b([K.av(b2,b4,0.75,"Ego Booster RESTful API",r),K.av(b2,b4,0.75,"Personalize Ego Booster Quotes with custom links to share with friends",r),K.av(b2,b4,0.75,"Find Ego Booster Quotes by keyword",r),K.av(b2,b4,0.75,"Weekly Ego Booster Email Subscription Service",r),new T.aU(C.lu,U.bS(a2,C.t,e,p),e),U.bS(a2,C.t,e,p)],n),C.n,C.j,C.i,0,5)
 p=R.c9(b2,b4,a1,p,b2.M(s).f.a.a<450&&!0)
 l=T.ib(e,5,e)
-o=T.ap(C.i,H.b([K.av(b2,b4,0.75,"Design the System Architecture for API Server, Batch Server, and Deploy Server",r),K.av(b2,b4,0.75,"Design Entities And Database Models and implement them using Sprint Data JPA",r),U.bS("egobooster/architect.png",C.t,e,o),K.av(b2,b4,0.75,"Utilize MySQL to store egobooster quotes and, for efficiency, Redis to store simple key-values",r),K.av(b2,b4,0.75,"Add Ego Booster Service and Controller Test cases using Junit",r),K.av(b2,b4,0.75,"Implement CRUD RESTful API to provide a single entry point to the database from different applications",r),K.av(b2,b4,0.75,"Design the Logo and Layout and build the front end view using Spring Boot Thymeleaf and jQuery",r),K.av(b2,b4,0.75,"Add Swagger API documentaion",r),L.aR(a4,K.Z(b2).F.b.bQ(15),e),K.av(b2,b4,0.75,"Deploy API Server with Thymeleaf Template Engine to AWS EC2 instance by transfering the jar file to the instance and executing it",r),K.av(b2,b4,0.75,"Use AWS MySQL RDS and AWS ElastiCache for production profile instead of locally installed MySQL and Redis",r)],n),C.n,C.j,C.i,0,10)
+o=T.ap(C.i,H.b([K.av(b2,b4,0.75,"Design the System Architecture for API Server, Batch Server, and Deploy Server",r),K.av(b2,b4,0.75,"Design Entities And Database Models and implement them using Sprint Data JPA",r),U.bS("assets/egobooster/architect.png",C.t,e,o),K.av(b2,b4,0.75,"Utilize MySQL to store egobooster quotes and, for efficiency, Redis to store simple key-values",r),K.av(b2,b4,0.75,"Add Ego Booster Service and Controller Test cases using Junit",r),K.av(b2,b4,0.75,"Implement CRUD RESTful API to provide a single entry point to the database from different applications",r),K.av(b2,b4,0.75,"Design the Logo and Layout and build the front end view using Spring Boot Thymeleaf and jQuery",r),K.av(b2,b4,0.75,"Add Swagger API documentaion",r),L.aR(a4,K.Z(b2).F.b.bQ(15),e),K.av(b2,b4,0.75,"Deploy API Server with Thymeleaf Template Engine to AWS EC2 instance by transfering the jar file to the instance and executing it",r),K.av(b2,b4,0.75,"Use AWS MySQL RDS and AWS ElastiCache for production profile instead of locally installed MySQL and Redis",r)],n),C.n,C.j,C.i,0,10)
 return T.ap(C.i,H.b([m,p,l,R.c9(b2,b4,a3,o,b2.M(s).f.a.a<450&&!0)],n),C.n,C.j,C.i,0,30)
 case"Ego Booster Batch":r=b2.M(t.w).f.a.a<450&&!0
 q=r?0:150
